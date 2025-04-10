@@ -1,0 +1,6 @@
+# o'rnatish uchun console "pip install -r requirements.txt" deb yozish yetarli
+
+pyzkfp
+psycopg2
+loguru
+Pillow
